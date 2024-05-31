@@ -33,4 +33,4 @@ jobs:
           file: ./tekton/images/tkn/Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: huangliang1203/tkn:latest
+          tags: huangliang1203/tkn:0.37.0
