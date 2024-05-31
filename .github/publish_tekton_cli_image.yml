@@ -1,6 +1,7 @@
 name: publish_tekton_cli_image
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'main'
