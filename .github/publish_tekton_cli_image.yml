@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./tekton/images/tkn/Dockerfile
           push: true
-          tags: user/app:latest
+          tags: huangliang1203/tkn:latest
